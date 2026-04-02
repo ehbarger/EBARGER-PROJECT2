@@ -1,0 +1,42 @@
+.hero {position: relative; text-align: center; color: whitesmoke; width: 100%; height: 100%;}
+.centered {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+.title {max-width: 100%; max-height: 100%; object-fit: fill;}
+.cardimage {padding: 20px;}
+.padding {padding-right: 40px; padding-left: 40px;}
+.searchbutton {border-style: solid; border-color: darkseagreen; color: darkseagreen; font-family: "Gill Sans", sans-serif;} 
+.naveco {font-family: "Gill Sans", sans-serif; color: darkseagreen;}
+
+.body {background-color: whitesmoke;}
+.greenbody {background-color: darkseagreen; max-width: 100%; max-height: 100%;}
+.navigation {background-color: black; color: whitesmoke !important;}
+.pagetext {font-size: 80px;}
+.blackbutton {font-family: "Gill Sans", sans-serif; border-style: none; background-color: black; color: whitesmoke; font-size: 25px; margin-left: 10px; margin-right: 10px;}
+.whitebutton {font-family: "Gill Sans", sans-serif; border-style: none; background-color: whitesmoke; color: black; font-size: 25px; margin-left: 10px; margin-right: 10px;}
+
+p {font-family: "Gill Sans", sans-serif; font-size: 18px;}
+h1 {font-family: "DejaVu Sans Mono", monospace;}
+.whitebutton:hover {background-color: darkseagreen;}
+.blackbutton:hover {background-color: darkseagreen;}
+.donatebutton {font-family: "Gill Sans", sans-serif; border-style: none; background-color: black; color: whitesmoke; font-size: 25px; margin-left: 5px; margin-right: 5px;}
+.donatebutton:hover {background-color: darkseagreen;}
+
+.floatimage {float: right; margin-left: 100px; margin-bottom: 20px; filter: drop-shadow(8px 8px 10px darkseagreen);}
+.resize {width: 450px; height: auto; filter: drop-shadow(8px 8px 10px darkseagreen)}
+.centerimg {margin-left: 40px; margin-right: 40px;}
+.imgmulti {display: flex; justify-content: center;}
+
+footer {position: relative; width: 100%; height: auto; background-color: black; color: whitesmoke;}
+footer .container {width: 100%; display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; grid-gap: 50px;}
+footer .container .sec h1 {position: relative; margin-bottom: 20px;}
+footer .container li {font-family: "Gill Sans", sans-serif; font-size: 18px; color: whitesmoke; text-decoration: none; list-style: none; line-height: 30px;}
+.footwhite {color: whitesmoke; text-decoration: none;}
+footer a:hover {color: darkseagreen;}
+footer h1 {color: darkseagreen;}
+
+.donatebox {background-color: whitesmoke; padding-left: 120px; padding-right: 120px;}
+.blacktext {color: black;}
+.centertext {text-align: center;}
+
+
+
+
